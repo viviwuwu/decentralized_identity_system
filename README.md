@@ -1,7 +1,9 @@
 # decentralized_identity_system
+
 A decentralized identity system built on blockchain technology, allowing users to securely manage and control their digital identities without relying on centralized authorities. This system utilizes blockchain's immutable and transparent nature to ensure the integrity and ownership of digital identities.
 
 # Welcome to Decentralized Identity System!
+
 Decentralized Identity System (DIS) is a blockchain-based decentralized identity system that allows users to securely manage and control their digital identities without relying on centralized authorities.
 
 ## Features
@@ -26,20 +28,24 @@ Decentralized Identity System (DIS) is a blockchain-based decentralized identity
 To get started with DIS, follow these steps:
 
 1. Clone the DIS repository:
-```
-git clone https://github.com/KOSASIH/decentralized_identity_system.git
-```
+   
+   ```
+   git clone https://github.com/KOSASIH/decentralized_identity_system.git
+   ```
+
 2. Install dependencies:
-```
-cd decentralized_identity_system
-npm install
-```
+   
+   ```
+   cd decentralized_identity_system
+   npm install
+   ```
 
 3. Build and run the DIS application:
-```
-npm run build
-npm run start
-```
+   
+   ```
+   npm run build
+   npm run start
+   ```
 
 ## Directory Structure
 
